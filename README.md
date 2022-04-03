@@ -24,6 +24,6 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 - League Of Legends (getting tested/made)
 - Guild Wars 2 (getting tested/made)
 - CSGO (getting tested/made)
-and more... (these can be made on demand, if enough people want it #suggest-games)
+- and more... (these can be made on demand, if enough people want it #suggest-games)
 
 **Supported Exploits (for ROBLOX scripts):** SYNAPSE X, KRNL?(idk), others will enough resources.
