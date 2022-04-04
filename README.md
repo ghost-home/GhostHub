@@ -9,7 +9,8 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 **How to buy:**
 - **PAYPAL:** If you are willing to buy using Paypal, you can buy a 10 usd steam giftcard (global) or just contact me on discord.
 - - SUPPORTED GIFTCARDS: G2A, Steam, League Of Legends (ALL GLOBAL)
-- **BITCOIN:** bc1qyz4fgrpndlgptl4fkvt24nehwhassms2wm9xzv (send the exact amount and then send me the transaction id on discord)
+- **BITCOIN:** bc1qyz4fgrpndlgptl4fkvt24nehwhassms2wm9xzv 
+- - send the exact amount and then send me the transaction id on discord
 - **ROBUX:** Buy the shirt (SHIRT_LINK) and then send me a picture with your username.
 
 # Features:
