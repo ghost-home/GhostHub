@@ -6,6 +6,12 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 - **BITCOIN/CRYPTO: 8 USD**
 - **ROBUX: 1350 ROBUX (this includes the tax, means you don't have to pay the tax)**
 
+**How to buy:**
+- **PAYPAL:** If you are willing to buy using Paypal, you can buy a 10 usd steam giftcard (global) or just contact me on discord.
+- - SUPPORTED GIFTCARDS: G2A, Steam, League Of Legends (ALL GLOBAL)
+- **BITCOIN:** bc1qyz4fgrpndlgptl4fkvt24nehwhassms2wm9xzv (send the exact amount and then send me the transaction id on discord)
+- **ROBUX:** Buy the shirt (SHIRT_LINK) and then send me a picture with your username.
+
 # Features:
 **Ghost Hub** is in a Testing Phase right now. Means most of the game scripts are either in Testing or Getting made. Currently we support:
 
