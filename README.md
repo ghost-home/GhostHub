@@ -20,6 +20,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 >> Features are added on demand (hence the scripting platform), so if you want something custom to be added in the gui, let me know in the discord.
 + DemonFall (https://www.roblox.com/games/4855457388/Demonfall-2-9)
 + + all old features but improved.
++ + More features like invisibility etc.
 + A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)
 + + 1v1's support
 + + all old features/modified alot. improved.
