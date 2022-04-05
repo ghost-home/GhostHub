@@ -1,10 +1,10 @@
 # GhostHub
 Ghost Hub is a game hub which includes scripts/trainers for games. This repo will include the info about it.
 
-**PRICE:**
-- **PAYPAL: 10 USD**
-- **BITCOIN/CRYPTO: 8 USD**
-- **ROBUX: 1428 ROBUX (this includes the tax, means you don't have to pay the tax)**
+**PRICE (ONLY HUB):**
+- **PAYPAL: 7 USD**
+- **BITCOIN/CRYPTO: 5 USD**
+- **ROBUX: 1000 ROBUX**
 
 **How to buy:**
 - **PAYPAL:** conatct me on discord if u want to use paypal.
