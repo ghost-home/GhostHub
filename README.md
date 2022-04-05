@@ -33,6 +33,6 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 - CSGO (getting tested/made)
 - and more... (these can be made on demand, if enough people want it #suggest-games)
 
-**Supported Exploits (for ROBLOX scripts):** SYNAPSE X, KRNL?(idk), others will enough resources.
+**Supported Exploits (for ROBLOX scripts):** SYNAPSE X, KRNL?(idk), others with enough resources.
 
 Discord: ghosthome#8544
