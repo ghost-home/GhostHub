@@ -37,10 +37,6 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + will be added soon
 + Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
 + + will be added soon
-+ Parkour (Getting Tested) (https://www.roblox.com/games/445664957/Parkour)
-+ + will be added soon
-+ Shindo Life (Getting Tested) (https://www.roblox.com/games/4616652839/Shindo-Life)
-+ + will be added soon
 + and more... (more game scripts are getting made/created, game scripts can be made on demand if enough people want it #suggest-games )
 
 **Supported Exploits (for ROBLOX scripts):** SYNAPSE X, KRNL?(idk), others with enough resources.
