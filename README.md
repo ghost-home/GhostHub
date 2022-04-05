@@ -11,7 +11,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 - **SUPPORTED GIFTCARDS:** G2A, Steam (ALL GLOBAL)
 - **BITCOIN:** bc1qyz4fgrpndlgptl4fkvt24nehwhassms2wm9xzv 
 - - send the exact amount and then send me the transaction id on discord
-- **ROBUX:** Buy the shirt (SHIRT_LINK) and then send me a picture with your username.
+- **ROBUX:** Buy the shirt (https://www.roblox.com/catalog/8514724157/unknown) and then send me a picture with your username.
 
 # Features:
 **Ghost Hub** is in a Testing Phase right now. Means most of the game scripts are either in Testing or Getting made. Currently we support:
