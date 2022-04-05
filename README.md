@@ -2,13 +2,11 @@
 Ghost Hub is a game hub which includes scripts/trainers for games. This repo will include the info about it.
 
 **PRICE (ONLY HUB):**
-- **PAYPAL: 7 USD**
+- **PAYPAL: 5 USD (buy a 5 USD worth of giftcard) (you can use G2A etc, giftcard must be Steam or G2A Global)**
 - **BITCOIN/CRYPTO: 5 USD**
 - **ROBUX: 1000 ROBUX**
-- **GIFTCARDS: 10 USD**
 
 **How to buy:**
-- **PAYPAL:** conatct me on discord if u want to use paypal.
 - **SUPPORTED GIFTCARDS:** G2A, Steam (ALL GLOBAL)
 - **BITCOIN:** bc1qyz4fgrpndlgptl4fkvt24nehwhassms2wm9xzv 
 - - send the exact amount and then send me the transaction id on discord
