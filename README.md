@@ -22,7 +22,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + all old features but improved.
 + A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)
 + + 1v1's support
-+ + all old features.
++ + all old features/modified alot. improved.
 + Grand Piece Online (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)
 + + Water Walk
 + + ESP (Player, Chests, Fruits (Near Only), ESP Far Fruits (Requires GamePass))
