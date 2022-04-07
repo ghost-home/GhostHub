@@ -24,11 +24,21 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + 1v1's support
 + + all old features/modified alot. improved.
 + Grand Piece Online (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)
-+ + Water Walk
-+ + ESP (Player, Chests, Fruits (Near Only), ESP Far Fruits (Requires GamePass))
-+ + Anti Stamina Loss
-+ + No Fall Damage
-+ + Speed/Jump Modifier
++ + Misc :
++ + + Water Walk
++ + + Under Water Walk
++ + + Anti-Stamina loss
++ + + No-Fall
++ + + Speed/Jump Modify
++ + ESP :
++ + + Players
++ + + Fruits (Nearby)
++ + + Fruits (Far, soon)
++ + + Chests (Set Distance)
++ + Farms :
++ + + Mobs Farm (soon)
++ + + Chests (soon)
++ + + Fruits (soon)
 + + etc
 + Your Bizarre Day (Currently Getting New GUI/Converted) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)
 + + Teleport Bypass.
@@ -63,7 +73,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Horse Fly Speed
 + + + Horse Speed
 + + + Respawn
-+ + These features aren't all listed, these are just the ones that comes to mind.
++ + etc
 + DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)
 + + will be added soon
 + Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
