@@ -48,9 +48,11 @@
 + + + Ores
 + + ServerHopper with Items Find Support (Customizable Settings)
 + + Above features are all reworked.
+
 + **A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)**
 + + 1v1's support
 + + all old features/modified alot. improved.
+
 + **Grand Piece Online (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
 + + Misc :
 + + + Water Walk (Sharks wont attack ya lol)
@@ -67,6 +69,7 @@
 + + + Chests (soon)
 + + + Fruits (soon)
 + + etc
+
 + **Your Bizarre Day (Getting Converted to a new GUI) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)**
 + + Teleport Bypass.
 + + Misc:
@@ -101,8 +104,10 @@
 + + + Horse Speed
 + + + Respawn
 + + etc
+
 + **DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)**
 + + will be added soon
-+ Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
+
++ **Ro-Ghoul (Getting Tested)** (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
 + + will be added soon
 + and more... (more game scripts are getting made/created, game scripts can be made on demand if enough people want it #suggest-games )
