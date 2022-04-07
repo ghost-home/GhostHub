@@ -31,7 +31,39 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + Speed/Jump Modifier
 + + etc
 + Your Bizarre Day (Getting Renewed) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)
-+ + will be added soon.
++ + Teleport Bypass.
++ + Auto Arcade
++ + Misc:
++ + + Auto Sell Items
++ + + Fly
++ + + Invisibllity
++ + + Speed/Jump Modify
++ + + NoClip (yes)
++ + + No Fog
++ + + Anti AFK
++ + + Click Teleport
++ + ESP:
++ + + ESP Players
++ + + ESP Mobs
++ + Teleports:
++ + + Players
++ + + Mobs
++ + + Items (soon)
++ + Farms:
++ + + Auto Equip Stand
++ + + Mobs Farm
++ + + Items Farm
++ + + Dropped Items
++ + Others:
++ + + Anti-State Change
++ + + Anti Weather Change
++ + + Anti Burn
++ + + Anti Poison
++ + + FLYING HORSE
++ + + Horse Fly Speed
++ + + Horse Speed
++ + + Respawn
++ + These features aren't all listed, these are just the ones that comes to mind.
 + DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)
 + + will be added soon
 + Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
