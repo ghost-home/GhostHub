@@ -5,7 +5,7 @@
 **ROBLOX SCRIPTS:**
 - You can suggest features/games, etc so these aren't all.
 
-+ **DemonFall (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)**
++ **DEMONFALL (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)**
 + + Misc :
 + + + Remove Fog
 + + + No Fall
@@ -49,11 +49,11 @@
 + + ServerHopper with Items Find Support (Customizable Settings)
 + + Above features are all reworked.
 
-+ **A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)**
++ **A UNIVERSAL TIME [AUT] (https://www.roblox.com/games/5130598377/A-Universal-Time)**
 + + 1v1's support
 + + all old features/modified alot. improved.
 
-+ **Grand Piece Online (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
++ **GRAND PIECE ONLINE [GPO] (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
 + + Misc :
 + + + Water Walk (Sharks wont attack ya lol)
 + + + Anti-Stamina loss
@@ -70,7 +70,7 @@
 + + + Fruits (soon)
 + + etc
 
-+ **Your Bizarre Day (Getting Converted to a new GUI) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)**
++ **YOUR BIZARRE ADVENTURE [YBA] (Getting Converted to a new GUI) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)**
 + + Teleport Bypass.
 + + Misc:
 + + + Auto Arcade
@@ -105,9 +105,9 @@
 + + + Respawn
 + + etc
 
-+ **DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)**
++ **DEEPWOKEN (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)**
 + + will be added soon
 
-+ **Ro-Ghoul (Getting Tested)** (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
++ **ROGHOUL [RO-GHOUL] (Getting Tested)** (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
 + + will be added soon
 + and more... (more game scripts are getting made/created, game scripts can be made on demand if enough people want it #suggest-games )
