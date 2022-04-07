@@ -12,6 +12,8 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 - - send the exact amount and then send me the transaction id on discord
 - **ROBUX:** Buy the shirt (https://www.roblox.com/catalog/8514724157/unknown) and then send me a picture with your username.
 
+FEATURES/GAMES ETC: https://github.com/ghost-home/GhostHub/blob/main/Features.md
+
 **Supported Exploits (for ROBLOX scripts):** SYNAPSE X, KRNL?(idk), others with enough resources.
 
 Discord: ghosthome#8544
