@@ -65,8 +65,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + all old features/modified alot. improved.
 + **Grand Piece Online (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
 + + Misc :
-+ + + Water Walk
-+ + + Under Water Walk
++ + + Water Walk (Sharks wont attack ya lol)
 + + + Anti-Stamina loss
 + + + No-Fall
 + + + Speed/Jump Modify
