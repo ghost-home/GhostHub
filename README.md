@@ -17,13 +17,56 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 
 **ROBLOX SCRIPTS:**
 >> Features are added on demand (hence the scripting platform), so if you want something custom to be added in the gui, let me know in the discord.
-+ DemonFall (https://www.roblox.com/games/4855457388/Demonfall-2-9)
-+ + all old features but improved.
-+ + More features like invisibility etc.
-+ A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)
+
++ DemonFall (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)
++ + Misc :
++ + + Remove Fog
++ + + No Fall
++ + + Fly
++ + + No Clip
++ + + Unlock Chat
++ + + Anti States :
++ + + + Inf M1's
++ + + + Anti Combat
++ + + + Anti Stun
++ + + + Anti Damaged (Damaged Stat)
++ + + + Anti JumpCD
++ + + + Anti Block CD
++ + + + Anti Carry (Players)
++ + + + Anti Slow
++ + + + Anti Ragdoll
++ + + + etc
++ + + INF Jump
++ + + Anti Stamina Loss (Jump)
++ + + Anti Burn (Demons)
++ + + God-Mode
++ + + Auto Pickup Dropped Items
++ + + Auto Gourd
++ + Teleports :
++ + + Teleport to Ores
++ + + Teleport to NPCs
++ + + Teleport to Trainers
++ + + Teleport to Items
++ + + Teleport to Players
++ + + Teleport to Mobs
++ + + Click Teleport
++ + Farms :
++ + + Items
++ + + Mobs
++ + + Includes Customizable Settings (Distance, Use Noclip, Use Skills etc)
++ + + Select Farm Method (Teleport, Move)
++ + ESPs :
++ + + Players, Mobs (Living Things)
++ + + Items
++ + + Ores
++ + ServerHopper with Items Find Support (Customizable Settings)
++ + Above features are all reworked.
++ 
++ **A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)**
 + + 1v1's support
 + + all old features/modified alot. improved.
-+ Grand Piece Online (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)
+
++ **Grand Piece Online (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
 + + Misc :
 + + + Water Walk
 + + + Under Water Walk
@@ -40,7 +83,8 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Chests (soon)
 + + + Fruits (soon)
 + + etc
-+ Your Bizarre Day (Currently Getting New GUI/Converted) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)
+
++ **Your Bizarre Day (Getting Converted to a new GUI) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)**
 + + Teleport Bypass.
 + + Misc:
 + + + Auto Arcade
@@ -74,6 +118,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Horse Speed
 + + + Respawn
 + + etc
+
 + DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)
 + + will be added soon
 + Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
