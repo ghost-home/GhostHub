@@ -3,7 +3,8 @@
 **Ghost Hub** is in a Testing Phase right now. Means most of the game scripts are either in Testing or Getting made. Currently we support:
 
 **ROBLOX SCRIPTS:**
--- You can suggest features/games, etc so these aren't all.
+- You can suggest features/games, etc so these aren't all.
+
 + **DemonFall (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)**
 + + Misc :
 + + + Remove Fog
