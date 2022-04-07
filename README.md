@@ -32,8 +32,8 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + etc
 + Your Bizarre Day (Currently Getting New GUI/Converted) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)
 + + Teleport Bypass.
-+ + Auto Arcade
 + + Misc:
++ + + Auto Arcade
 + + + Auto Sell Items
 + + + Fly
 + + + Invisibllity
