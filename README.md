@@ -17,8 +17,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 
 **ROBLOX SCRIPTS:**
 >> Features are added on demand (hence the scripting platform), so if you want something custom to be added in the gui, let me know in the discord.
-
-+ DemonFall (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)
++ **DemonFall (Getting Converted to a new GUI)  (https://www.roblox.com/games/4855457388/Demonfall-2-9)**
 + + Misc :
 + + + Remove Fog
 + + + No Fall
@@ -61,11 +60,9 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Ores
 + + ServerHopper with Items Find Support (Customizable Settings)
 + + Above features are all reworked.
-+ 
 + **A Universal Time (https://www.roblox.com/games/5130598377/A-Universal-Time)**
 + + 1v1's support
 + + all old features/modified alot. improved.
-
 + **Grand Piece Online (Getting Converted to a new GUI) (https://www.roblox.com/games/1730877806/2X-VALENTINES-Grand-Piece-Online)**
 + + Misc :
 + + + Water Walk
@@ -83,7 +80,6 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Chests (soon)
 + + + Fruits (soon)
 + + etc
-
 + **Your Bizarre Day (Getting Converted to a new GUI) (https://www.roblox.com/games/2809202155/Your-Bizarre-Adventure)**
 + + Teleport Bypass.
 + + Misc:
@@ -118,8 +114,7 @@ Ghost Hub is a game hub which includes scripts/trainers for games. This repo wil
 + + + Horse Speed
 + + + Respawn
 + + etc
-
-+ DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)
++ **DeepWoken (Getting Tested) (https://www.roblox.com/games/4111023553/Deepwoken)**
 + + will be added soon
 + Ro-Ghoul (Getting Tested) (https://www.roblox.com/games/914010731/ReGrass-Ro-Ghoul-ALPHA)
 + + will be added soon
